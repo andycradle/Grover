@@ -1,0 +1,4 @@
+pyfiglet==0.7.6
+colorama==0.4.4
+TgCrypto==1.2.2
+Pyrogram==1.1.10
