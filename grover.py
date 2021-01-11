@@ -1,9 +1,11 @@
 from pyrogram import * 
 import time
 import pyfiglet
+import os
 from colorama import Fore
 
-
+os.clear()
+print(Fore.GREEN)
 print(pyfiglet.figlet_format("Grover"))
 print('-------------------------------')
 print("Create by ELVIN\nИнструкция по импользыванию: https://telegra.ph/Rassylka-soobshchenij-telegram-01-10")
