@@ -4,7 +4,7 @@ import pyfiglet
 import os
 from colorama import Fore
 
-os.clear()
+os.system("clear")
 print(Fore.GREEN)
 print(pyfiglet.figlet_format("Grover"))
 print('-------------------------------')
